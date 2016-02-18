@@ -1,0 +1,28 @@
+name: davidho
+favicon: null
+layout_spectrum: 0.7536032404750586
+typography_spectrum: 0.6195016200654209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17970372317358851
+  lightness: 0.8812543102540076
+  saturation: 0.9640551866032183
+  rhythmicContrast: 0.3367126048542559
+purpose: []
